@@ -4,7 +4,7 @@ V rámci tohoto workshopu budou představeny základní techniky ovládání man
 
 <table>
     <tr>
-        <td><img src="VRM/docs/1.png"></td>
-        <td><img src="VRM/docs/2.png"></td>
+        <td><img src="https://github.com/Steigner/ROS-Workshops/blob/main/VRM/docs/1.png"></td>
+        <td><img src="https://github.com/Steigner/ROS-Workshops/blob/main/VRM/docs/2.png"></td>
     </tr>
 </table>
